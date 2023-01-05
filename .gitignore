@@ -31,11 +31,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-/android/
-/ios/
 /linux/
 /test/
-/web/
 /windows/
 /macos/
 
